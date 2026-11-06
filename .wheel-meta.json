@@ -1,0 +1,22 @@
+{
+  "wheel_id": 704,
+  "structure": "umbrella",
+  "slug": "earthmovingtoowoomba-158",
+  "project": "earthmoving-services-toowoomba-maintenance-9ebaf1b3cb67d93c59b5",
+  "parent_t1_ref": "earthmovingtoowoomba-005",
+  "node_role": "buffer",
+  "money_target": "earthmovingtoowoomba.com.au",
+  "primary_kw": "earthmoving services toowoomba maintenance",
+  "intended_url": "https://sites-e470-2.web.app/earthmoving-services-toowoomba-maintenance-9ebaf1b3cb67d93c59b5/",
+  "tier": "T2",
+  "writeback_nonce": "f6072602b95d7dd5",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/earthmoving-services-toowoomba/",
+      "anchor": "Earthmoving Services Toowoomba: A Practical Site Brief Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
